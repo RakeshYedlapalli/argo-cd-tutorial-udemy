@@ -1,0 +1,3 @@
+Prerequisites:
+
+Containers, Kubernetes, github,gitlab, YAML, HELM, 
